@@ -7,7 +7,7 @@ Data Science / AI Engineer
 Just a student techy enthusiast exploring the fusion of Data Science & Web Development to drive business growth by using advanced tech in the streamline process.
 
 * 🌍  I'm based in Kerala India
-* 🖥️  See my portfolio at [js.com](http://web2-self.vercel.app/)
+* 🖥️  See my portfolio at [js.com](https://www.notion.so/joelsiby/Jo-s-Portfolio-19bd4ab18e388027ac26e4d542d457eb)
 * ✉️  You can contact me at [joelag1235@gmail.com](mailto:joelag1235@gmail.com)
 * 🧠  I'm learning Gen-AI
 * 🤝  I'm open to collaborating on anything related to Data Science that could fascinate me and develop my skills.
