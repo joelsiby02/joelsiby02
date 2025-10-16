@@ -1,7 +1,7 @@
 Hi 👋 My name is Joel SIby
 ==========================
 
-Data Analytics / Project Management / AI Engineer
+Business Development & Analytics Inten / Data Analytics Intern / Machine Learning Intern 
 --------------------------
 
 I’m currently a Data Analytics & Business Development Intern, exploring the fusion of data science, AI, and business strategy to drive smarter workflows and business growth. I enjoy building solutions that make life and work easier—whether it’s analyzing data, creating dashboards, experimenting with AI models, automating processes, or supporting business development initiatives.
