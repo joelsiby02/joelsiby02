@@ -1,16 +1,18 @@
-Hi 👋 My name is Joel SIby
-==========================
 
-Business Development & Analytics Inten / Data Analytics Intern / Machine Learning Intern 
---------------------------
 
-I’m currently a Data Analytics & Business Development Intern, exploring the fusion of data science, AI, and business strategy to drive smarter workflows and business growth. I enjoy building solutions that make life and work easier—whether it’s analyzing data, creating dashboards, experimenting with AI models, automating processes, or supporting business development initiatives.
+Does a degree make you an engineer? I don’t think so --- I believe the title is earned by building, failing, learning, and shipping.
+===================
 
-* 🌍  I'm based in Kerala India
-* 🖥️  Visit my portfolio at [joelsiby.vercel.app](https://joelsiby.vercel.app/)
-* ✉️  You can contact me at [joelag1235@gmail.com](mailto:joelag1235@gmail.com)
-* 🧠  I'm currently exploring how AI can support business decisions and trying different approaches to understand its impact.
-* 🤝  I'm open to collaborating on anything related to Data Science, Business Analytics and Project Management that could fascinate me and develop my skills.
+Hi 👋 I’m Joel Siby
+
+I’m a self-taught AI and analytics builder focused on combining tech + business thinking to create smarter systems and better decisions. I like turning messy informayions into solutions and love to present them in dashboards, automations, and practical AI workflows that actually save time and drive results.
+
+- 🌍 Based in Kerala, India  
+- 🖥️ Portfolio: [joelsiby.vercel.app](https://joelsiby.vercel.app/)  
+- ✉️ Email: [joelag1235@gmail.com](mailto:joelag1235@gmail.com)  
+- 🧠 Currently exploring: AI for business decisions, analytics, automation, LLM workflows  
+- 🤝 Open to: Data Science, Business Analytics, AI Automation, Product/Project work  
+
 
 ### Socials
 
