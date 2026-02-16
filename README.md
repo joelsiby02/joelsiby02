@@ -5,7 +5,7 @@ Does a degree make you an engineer? I don’t think so --- I believe the title i
 
 Hi 👋 I’m Joel Siby
 
-I’m a self-taught AI and analytics builder focused on combining tech + business thinking to create smarter systems and better decisions. I like turning messy informayions into solutions and love to present them in dashboards, automations, and practical AI workflows that actually save time and drive results.
+I’m a self-taught AI and analytics builder focused on combining tech + business thinking to create smarter systems and better decisions. I like turning messy informations into solutions and love to present them in dashboards, automations, and practical AI workflows that actually save time and drive results.
 
 - 🌍 Based in Kerala, India  
 - 🖥️ Portfolio: [joelsiby.vercel.app](https://joelsiby.vercel.app/)  
