@@ -1,6 +1,6 @@
 
 
-Does a degree make you an engineer? I don’t think so --- I believe the title is earned by building, failing, learning, and shipping.
+Does a degree make you an engineer? I don’t think so,  I believe the title is earned by building, failing, learning, and shipping.
 ===================
 
 Hi 👋 I’m Joel Siby
